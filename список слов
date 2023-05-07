@@ -1,0 +1,5 @@
+global coolWords
+global coolWordsENG
+
+coolWords = ['привет', 'как дела', 'завтрак', ' крутой']
+coolWordsENG = ['hello', 'my friend', 'house', 'sun']
